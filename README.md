@@ -67,7 +67,3 @@ npm start
 ## 📄 License
 
 This project is open-source under the [MIT License](LICENSE).
-
----
-
-> Feel free to customize this README to match the purpose of your project!
